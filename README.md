@@ -20,6 +20,7 @@ O site oferece:
 - **CSS3**
 - **Font Awesome** (ícones)
 - **Google Fonts** (Fonte Inter)
+- [Clique aqui e confira!!!](https://restaurente.vercel.app/)
 
 
 
