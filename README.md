@@ -1,6 +1,6 @@
 # 🍽️ Sabor Carioca
 
-Site institucional para o restaurante **Sabor dos Carioca**, localizado em Copacabana, Rio de Janeiro. O site apresenta o restaurante, seus serviços e um cardápio com pratos típicos da culinária brasileira, com visual moderno, responsivo e animado.
+Site institucional para o restaurante **Sabor Carioca**, localizado em Copacabana, Rio de Janeiro. O site apresenta o restaurante, seus serviços e um cardápio com pratos típicos da culinária brasileira, com visual moderno, responsivo e animado.
 
 ## 📸 Visão Geral
 
